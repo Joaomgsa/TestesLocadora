@@ -1,9 +1,0 @@
-Francisco Wagner Costa Aquino
-Analista de Testes
-Formação e Experiência
-
-Wagner Costa possui graduação em Ciências da Computação, Mestrado na área de previsão de séries temporais com Redes Neurais, ambas pela Universidade Estadual do Ceará (UECE). Trabalha com JAVA e testes há mais de 10 anos e com Javascript há mais de 3 anos.
-
-Trabalhos atuais
-
-Integrante da equipe de suporte à automação de testes na DATAPREV. Professor de Testes automatizados e Testes Funcionais em duas especializações em Fortaleza (Universidade 7 de Setembro - Uni7), uma focada em desenvolvimento ágil e a outra em Testes de Software. Dá aulas presenciais há mais de 8 anos e na área de aulas à distância há 2 anos.
