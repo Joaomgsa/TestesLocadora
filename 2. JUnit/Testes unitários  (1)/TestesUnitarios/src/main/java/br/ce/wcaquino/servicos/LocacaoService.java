@@ -24,7 +24,7 @@ public class LocacaoService {
 		dataEntrega = adicionarDias(dataEntrega, 1);
 		locacao.setDataRetorno(dataEntrega);
 		
-		//Salvando a locacao...	
+
 		//TODO adicionar método para salvar
 		
 		return locacao;
